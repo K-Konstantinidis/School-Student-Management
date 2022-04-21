@@ -1,5 +1,5 @@
 /*************************************************************************
-        Copyright © [2022] [Konstantinidis Konstantinos]
+        Copyright Â© [2022] [Konstantinidis Konstantinos]
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -288,6 +288,11 @@ void printStudentsWithGrade(){
 
     printf("Give the grade: ");
     scanf("%g", &theGrade);
+    while(theGrade<0){
+        printf("Grade can't be a negative number\n");
+        printf("Give the grade: ");
+        scanf("%g", &theGrade);
+    }
 
     infile = fopen("students_Sample.dat", "r");
     if (infile == NULL)
