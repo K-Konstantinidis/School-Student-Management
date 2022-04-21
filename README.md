@@ -11,7 +11,8 @@ Features:
 
 ## Screenshots
 
-<img src = "Images/Game1.png" width = 350px><img src = "Images/Game2.png" width = 350px>
-<img src = "Images/Game1.png" width = 350px><img src = "Images/Game2.png" width = 350px>
-<img src = "Images/Game1.png" width = 350px><img src = "Images/Game2.png" width = 350px>
-<img src = "Images/Game1.png" width = 350px><img src = "Images/Game2.png" width = 350px>
+<img src = "Images/Image1.png" width = 350px> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src = "Images/Image3.png" width = 350px>
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ⬇️⬇️⬇️
+
+<img src = "Images/Image2.png" width = 400px> &nbsp; &nbsp; &nbsp; <img src = "Images/Image4.png" width = 400px>
